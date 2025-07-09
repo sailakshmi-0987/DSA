@@ -23,10 +23,12 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sailakshmi-0987/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sailakshmi-0987/DSA/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sailakshmi-0987/DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sailakshmi-0987/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sailakshmi-0987/DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
