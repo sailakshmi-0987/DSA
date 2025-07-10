@@ -12,14 +12,17 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 ## Linked List
 |  |
 | ------- |
@@ -43,4 +46,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sailakshmi-0987/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
