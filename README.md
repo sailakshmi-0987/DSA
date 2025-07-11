@@ -16,6 +16,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Graph
 |  |
 | ------- |
@@ -32,6 +34,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +67,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Enumeration
 |  |
 | ------- |
