@@ -97,4 +97,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
