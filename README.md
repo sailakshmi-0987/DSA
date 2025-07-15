@@ -92,6 +92,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Math
 |  |
@@ -100,5 +101,10 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
