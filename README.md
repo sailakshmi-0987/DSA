@@ -56,6 +56,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sailakshmi-0987/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
@@ -107,4 +108,5 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
