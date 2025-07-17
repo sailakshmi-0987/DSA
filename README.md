@@ -116,6 +116,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
