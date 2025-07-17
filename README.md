@@ -58,6 +58,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -114,6 +115,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
