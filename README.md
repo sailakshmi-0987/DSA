@@ -14,6 +14,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
@@ -146,12 +147,15 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
