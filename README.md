@@ -22,6 +22,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0199-binary-tree-right-side-view](https://github.com/sailakshmi-0987/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
@@ -132,6 +133,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
@@ -145,6 +147,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +178,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sailakshmi-0987/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -187,6 +191,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sailakshmi-0987/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Hash Function
 |  |
