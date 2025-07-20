@@ -21,6 +21,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -36,6 +37,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0207-course-schedule](https://github.com/sailakshmi-0987/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -167,6 +169,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sailakshmi-0987/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +179,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sailakshmi-0987/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
