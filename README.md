@@ -9,6 +9,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/sailakshmi-0987/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -122,6 +124,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
@@ -145,6 +148,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
 |  |
 | ------- |
@@ -165,4 +169,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
