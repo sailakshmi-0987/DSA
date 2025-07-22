@@ -9,6 +9,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/sailakshmi-0987/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Depth-First Search
 |  |
@@ -80,6 +81,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -94,6 +96,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Sliding Window
 |  |
 | ------- |
+| [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sailakshmi-0987/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Topological Sort
 |  |
