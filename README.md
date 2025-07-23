@@ -29,6 +29,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -202,6 +203,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -222,6 +224,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Hash Function
