@@ -42,6 +42,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1035-cousins-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -179,6 +181,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +225,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
