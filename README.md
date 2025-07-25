@@ -10,6 +10,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/sailakshmi-0987/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Depth-First Search
@@ -40,6 +41,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -65,6 +67,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Graph
@@ -227,6 +230,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
@@ -255,6 +259,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1035-cousins-in-binary-tree) |
 ## Hash Function
 |  |
@@ -274,4 +279,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
