@@ -7,6 +7,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/sailakshmi-0987/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
@@ -99,6 +100,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
@@ -208,6 +210,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0101-symmetric-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sailakshmi-0987/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sailakshmi-0987/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -235,6 +238,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0101-symmetric-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sailakshmi-0987/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sailakshmi-0987/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -259,6 +263,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
