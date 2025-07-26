@@ -106,6 +106,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -286,4 +287,16 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
