@@ -167,6 +167,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -175,6 +176,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -338,5 +340,6 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
