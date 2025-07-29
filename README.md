@@ -111,6 +111,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -169,6 +170,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
+| [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
