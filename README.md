@@ -106,6 +106,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -172,6 +173,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sailakshmi-0987/DSA/tree/master/0198-house-robber) |
@@ -227,6 +229,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 ## Trie
 |  |
 | ------- |
