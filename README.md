@@ -111,6 +111,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sailakshmi-0987/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
@@ -177,6 +178,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sailakshmi-0987/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
