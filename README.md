@@ -117,6 +117,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -184,6 +185,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -235,6 +237,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Trie
 |  |
 | ------- |
