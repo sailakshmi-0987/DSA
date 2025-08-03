@@ -119,6 +119,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0416-partition-equal-subset-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -193,6 +194,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0198-house-robber](https://github.com/sailakshmi-0987/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -234,6 +236,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0052-n-queens-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
