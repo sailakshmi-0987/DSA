@@ -216,6 +216,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1130-last-stone-weight-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1130-last-stone-weight-ii) |
+| [1250-longest-common-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sailakshmi-0987/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -240,6 +241,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/sailakshmi-0987/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/sailakshmi-0987/DSA/tree/master/0686-repeated-string-match) |
+| [1250-longest-common-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sailakshmi-0987/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
