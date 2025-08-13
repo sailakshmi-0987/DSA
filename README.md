@@ -238,6 +238,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/sailakshmi-0987/DSA/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -453,4 +454,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
