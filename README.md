@@ -240,6 +240,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/sailakshmi-0987/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -278,6 +279,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -460,4 +462,5 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
