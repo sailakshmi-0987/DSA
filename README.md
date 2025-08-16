@@ -160,6 +160,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/sailakshmi-0987/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -243,6 +244,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/sailakshmi-0987/DSA/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
