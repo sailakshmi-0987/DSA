@@ -468,4 +468,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sailakshmi-0987/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
