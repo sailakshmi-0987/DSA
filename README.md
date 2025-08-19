@@ -103,12 +103,14 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/sailakshmi-0987/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sailakshmi-0987/DSA/tree/master/0086-partition-list) |
 ## Array
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
@@ -406,6 +408,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sailakshmi-0987/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
