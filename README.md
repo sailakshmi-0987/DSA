@@ -104,6 +104,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/sailakshmi-0987/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sailakshmi-0987/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sailakshmi-0987/DSA/tree/master/0086-partition-list) |
 ## Array
@@ -111,6 +112,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/sailakshmi-0987/DSA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
