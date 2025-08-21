@@ -18,6 +18,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sailakshmi-0987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
@@ -158,6 +159,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sailakshmi-0987/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/sailakshmi-0987/DSA/tree/master/2529-range-product-queries-of-powers) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -186,6 +188,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sailakshmi-0987/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sailakshmi-0987/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Topological Sort
 |  |
