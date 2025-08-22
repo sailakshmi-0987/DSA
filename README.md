@@ -13,6 +13,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0138-copy-list-with-random-pointer](https://github.com/sailakshmi-0987/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/sailakshmi-0987/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
@@ -186,6 +187,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailakshmi-0987/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sailakshmi-0987/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
@@ -276,6 +278,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sailakshmi-0987/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/sailakshmi-0987/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/sailakshmi-0987/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
