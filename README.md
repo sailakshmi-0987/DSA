@@ -133,6 +133,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0120-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sailakshmi-0987/DSA/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/sailakshmi-0987/DSA/tree/master/0322-coin-change) |
@@ -187,6 +188,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailakshmi-0987/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sailakshmi-0987/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
@@ -417,6 +419,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -459,6 +462,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sailakshmi-0987/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/sailakshmi-0987/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sailakshmi-0987/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
