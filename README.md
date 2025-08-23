@@ -267,6 +267,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/sailakshmi-0987/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
@@ -281,6 +282,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailakshmi-0987/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sailakshmi-0987/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -314,6 +316,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
@@ -495,6 +498,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
