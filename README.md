@@ -122,6 +122,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sailakshmi-0987/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sailakshmi-0987/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sailakshmi-0987/DSA/tree/master/0055-jump-game) |
@@ -183,6 +184,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sailakshmi-0987/DSA/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/sailakshmi-0987/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -237,6 +239,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sailakshmi-0987/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
