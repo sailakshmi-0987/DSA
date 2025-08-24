@@ -150,6 +150,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1130-last-stone-weight-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailakshmi-0987/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sailakshmi-0987/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
@@ -196,6 +197,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sailakshmi-0987/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailakshmi-0987/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sailakshmi-0987/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -255,6 +257,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1130-last-stone-weight-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailakshmi-0987/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sailakshmi-0987/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sailakshmi-0987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
