@@ -531,6 +531,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0610-triangle-judgement](https://github.com/sailakshmi-0987/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/sailakshmi-0987/DSA/tree/master/0619-biggest-single-number) |
 | [1258-article-views-i](https://github.com/sailakshmi-0987/DSA/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sailakshmi-0987/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/sailakshmi-0987/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sailakshmi-0987/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
