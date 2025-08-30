@@ -7,6 +7,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailakshmi-0987/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/sailakshmi-0987/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/sailakshmi-0987/DSA/tree/master/0133-clone-graph) |
@@ -119,6 +120,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sailakshmi-0987/DSA/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/sailakshmi-0987/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
@@ -345,6 +347,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sailakshmi-0987/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0064-minimum-path-sum) |
