@@ -287,6 +287,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sailakshmi-0987/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sailakshmi-0987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sailakshmi-0987/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sailakshmi-0987/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -547,6 +548,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/sailakshmi-0987/DSA/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sailakshmi-0987/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -608,4 +610,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sailakshmi-0987/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sailakshmi-0987/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
