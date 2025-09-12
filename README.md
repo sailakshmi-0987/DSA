@@ -337,6 +337,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
@@ -493,6 +494,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sailakshmi-0987/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sailakshmi-0987/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sailakshmi-0987/DSA/tree/master/3748-sort-matrix-by-diagonals) |
