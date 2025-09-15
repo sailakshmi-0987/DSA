@@ -19,6 +19,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sailakshmi-0987/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sailakshmi-0987/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -334,6 +335,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/sailakshmi-0987/DSA/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sailakshmi-0987/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sailakshmi-0987/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
