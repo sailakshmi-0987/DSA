@@ -23,6 +23,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sailakshmi-0987/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sailakshmi-0987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -175,6 +176,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sailakshmi-0987/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sailakshmi-0987/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sailakshmi-0987/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -254,6 +256,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailakshmi-0987/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -343,6 +346,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
@@ -513,6 +517,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sailakshmi-0987/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
+| [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -568,6 +573,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sailakshmi-0987/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
