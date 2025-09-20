@@ -28,6 +28,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sailakshmi-0987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sailakshmi-0987/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
@@ -202,6 +203,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sailakshmi-0987/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sailakshmi-0987/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -499,6 +501,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sailakshmi-0987/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -521,6 +524,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -580,6 +584,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sailakshmi-0987/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -640,6 +645,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sailakshmi-0987/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
