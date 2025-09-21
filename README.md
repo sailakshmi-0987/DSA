@@ -22,6 +22,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sailakshmi-0987/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sailakshmi-0987/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -170,6 +171,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1813-maximum-erasure-value](https://github.com/sailakshmi-0987/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sailakshmi-0987/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailakshmi-0987/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sailakshmi-0987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -258,6 +260,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailakshmi-0987/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
@@ -522,6 +525,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sailakshmi-0987/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
+| [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
@@ -580,6 +584,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
