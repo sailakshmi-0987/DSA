@@ -121,6 +121,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sailakshmi-0987/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sailakshmi-0987/DSA/tree/master/0086-partition-list) |
+| [0165-compare-version-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
@@ -340,6 +341,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sailakshmi-0987/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
