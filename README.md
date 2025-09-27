@@ -163,6 +163,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0679-24-game](https://github.com/sailakshmi-0987/DSA/tree/master/0679-24-game) |
 | [0741-cherry-pickup](https://github.com/sailakshmi-0987/DSA/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/sailakshmi-0987/DSA/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sailakshmi-0987/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -327,6 +328,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/sailakshmi-0987/DSA/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/sailakshmi-0987/DSA/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -657,6 +659,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/sailakshmi-0987/DSA/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sailakshmi-0987/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
