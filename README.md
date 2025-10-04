@@ -84,6 +84,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0279-perfect-squares](https://github.com/sailakshmi-0987/DSA/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/sailakshmi-0987/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sailakshmi-0987/DSA/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -155,6 +156,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/sailakshmi-0987/DSA/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/sailakshmi-0987/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0494-target-sum) |
@@ -271,6 +273,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailakshmi-0987/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -417,6 +420,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0064-minimum-path-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/sailakshmi-0987/DSA/tree/master/0498-diagonal-traverse) |
 | [0741-cherry-pickup](https://github.com/sailakshmi-0987/DSA/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
