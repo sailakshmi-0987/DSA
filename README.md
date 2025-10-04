@@ -118,6 +118,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sailakshmi-0987/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sailakshmi-0987/DSA/tree/master/0031-next-permutation) |
@@ -130,6 +131,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sailakshmi-0987/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sailakshmi-0987/DSA/tree/master/0031-next-permutation) |
@@ -223,6 +225,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sailakshmi-0987/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sailakshmi-0987/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sailakshmi-0987/DSA/tree/master/0134-gas-station) |
