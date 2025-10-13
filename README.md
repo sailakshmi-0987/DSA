@@ -237,6 +237,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sailakshmi-0987/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/sailakshmi-0987/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -349,6 +350,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sailakshmi-0987/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sailakshmi-0987/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -377,6 +379,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/sailakshmi-0987/DSA/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
@@ -435,6 +438,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2529-range-product-queries-of-powers](https://github.com/sailakshmi-0987/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sailakshmi-0987/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -635,6 +639,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sailakshmi-0987/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -736,4 +741,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
