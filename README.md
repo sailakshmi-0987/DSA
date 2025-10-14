@@ -225,6 +225,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sailakshmi-0987/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sailakshmi-0987/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sailakshmi-0987/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3723-sum-of-good-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/3723-sum-of-good-numbers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sailakshmi-0987/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
