@@ -386,6 +386,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sailakshmi-0987/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/sailakshmi-0987/DSA/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/sailakshmi-0987/DSA/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/sailakshmi-0987/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sailakshmi-0987/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sailakshmi-0987/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
