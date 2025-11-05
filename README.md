@@ -37,6 +37,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailakshmi-0987/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sailakshmi-0987/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sailakshmi-0987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -242,6 +243,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailakshmi-0987/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sailakshmi-0987/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sailakshmi-0987/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -298,6 +300,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sailakshmi-0987/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sailakshmi-0987/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sailakshmi-0987/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sailakshmi-0987/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -334,6 +337,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sailakshmi-0987/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/sailakshmi-0987/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sailakshmi-0987/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
 ## Shortest Path
