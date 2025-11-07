@@ -43,6 +43,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sailakshmi-0987/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sailakshmi-0987/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sailakshmi-0987/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
@@ -81,6 +82,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1035-cousins-in-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -122,6 +125,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sailakshmi-0987/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -265,6 +269,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3797-design-spreadsheet](https://github.com/sailakshmi-0987/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +345,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sailakshmi-0987/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/sailakshmi-0987/DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -734,6 +740,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sailakshmi-0987/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
@@ -811,6 +818,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
