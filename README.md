@@ -15,6 +15,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sailakshmi-0987/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sailakshmi-0987/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
@@ -464,6 +465,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0166-fraction-to-recurring-decimal](https://github.com/sailakshmi-0987/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sailakshmi-0987/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/sailakshmi-0987/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/sailakshmi-0987/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -670,6 +672,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
