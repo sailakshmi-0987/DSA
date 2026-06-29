@@ -221,6 +221,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sailakshmi-0987/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sailakshmi-0987/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailakshmi-0987/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sailakshmi-0987/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sailakshmi-0987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -478,6 +479,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1592-rearrange-spaces-between-words](https://github.com/sailakshmi-0987/DSA/tree/master/1592-rearrange-spaces-between-words) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sailakshmi-0987/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sailakshmi-0987/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
