@@ -89,6 +89,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sailakshmi-0987/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sailakshmi-0987/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -121,6 +122,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sailakshmi-0987/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sailakshmi-0987/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sailakshmi-0987/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sailakshmi-0987/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -891,9 +893,11 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sailakshmi-0987/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sailakshmi-0987/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sailakshmi-0987/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/sailakshmi-0987/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
