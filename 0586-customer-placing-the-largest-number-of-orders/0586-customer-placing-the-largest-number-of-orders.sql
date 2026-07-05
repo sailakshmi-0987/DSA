@@ -1,6 +1,5 @@
 # Write your MySQL query statement below
-SELECT customer_number 
+SELECT customer_number
 FROM Orders
-GROUP BY customer_number
-ORDER BY count(*) DESC
-LIMIT 1;
+GROUP BY 1
+ORDER BY count(DISTINCT order_number) DESC LIMIT 1;
