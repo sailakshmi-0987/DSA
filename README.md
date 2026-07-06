@@ -839,6 +839,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0610-triangle-judgement](https://github.com/sailakshmi-0987/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/sailakshmi-0987/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/sailakshmi-0987/DSA/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/sailakshmi-0987/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/sailakshmi-0987/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/sailakshmi-0987/DSA/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/sailakshmi-0987/DSA/tree/master/1182-game-play-analysis-iv) |
