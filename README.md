@@ -466,6 +466,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailakshmi-0987/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sailakshmi-0987/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sailakshmi-0987/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/sailakshmi-0987/DSA/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
