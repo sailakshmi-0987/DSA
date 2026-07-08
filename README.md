@@ -467,6 +467,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/sailakshmi-0987/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sailakshmi-0987/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/sailakshmi-0987/DSA/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -506,6 +507,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/sailakshmi-0987/DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sailakshmi-0987/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -753,6 +755,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sailakshmi-0987/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sailakshmi-0987/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sailakshmi-0987/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sailakshmi-0987/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Memoization
