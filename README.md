@@ -262,6 +262,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sailakshmi-0987/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sailakshmi-0987/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sailakshmi-0987/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -431,6 +432,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sailakshmi-0987/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sailakshmi-0987/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sailakshmi-0987/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -467,6 +469,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sailakshmi-0987/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sailakshmi-0987/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sailakshmi-0987/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -899,6 +902,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Union Find
 |  |
 | ------- |
