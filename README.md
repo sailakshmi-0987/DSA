@@ -189,6 +189,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0120-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/sailakshmi-0987/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sailakshmi-0987/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/sailakshmi-0987/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
@@ -448,6 +449,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sailakshmi-0987/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sailakshmi-0987/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0279-perfect-squares](https://github.com/sailakshmi-0987/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/sailakshmi-0987/DSA/tree/master/0326-power-of-three) |
@@ -596,6 +598,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sailakshmi-0987/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sailakshmi-0987/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sailakshmi-0987/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
