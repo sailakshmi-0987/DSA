@@ -221,6 +221,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sailakshmi-0987/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sailakshmi-0987/DSA/tree/master/1470-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailakshmi-0987/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/sailakshmi-0987/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -595,6 +596,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sailakshmi-0987/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sailakshmi-0987/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sailakshmi-0987/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -800,6 +802,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/sailakshmi-0987/DSA/tree/master/0498-diagonal-traverse) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/sailakshmi-0987/DSA/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/sailakshmi-0987/DSA/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
