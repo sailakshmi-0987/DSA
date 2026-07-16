@@ -165,6 +165,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sailakshmi-0987/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -302,6 +303,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/sailakshmi-0987/DSA/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -483,6 +485,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/sailakshmi-0987/DSA/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -728,6 +731,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sailakshmi-0987/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sailakshmi-0987/DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -817,6 +821,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sailakshmi-0987/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
@@ -912,6 +917,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sailakshmi-0987/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union Find
 |  |
 | ------- |
