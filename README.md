@@ -36,6 +36,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sailakshmi-0987/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sailakshmi-0987/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sailakshmi-0987/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -270,6 +271,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sailakshmi-0987/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sailakshmi-0987/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sailakshmi-0987/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -478,6 +480,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sailakshmi-0987/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
@@ -707,6 +710,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sailakshmi-0987/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sailakshmi-0987/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sailakshmi-0987/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -778,6 +782,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sailakshmi-0987/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/sailakshmi-0987/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sailakshmi-0987/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sailakshmi-0987/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sailakshmi-0987/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -804,6 +809,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sailakshmi-0987/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sailakshmi-0987/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
 |  |
@@ -849,6 +855,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sailakshmi-0987/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sailakshmi-0987/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sailakshmi-0987/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sailakshmi-0987/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -926,6 +933,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sailakshmi-0987/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
