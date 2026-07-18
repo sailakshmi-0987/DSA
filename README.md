@@ -241,6 +241,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1917-maximum-average-pass-ratio](https://github.com/sailakshmi-0987/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/sailakshmi-0987/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sailakshmi-0987/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sailakshmi-0987/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sailakshmi-0987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -472,6 +473,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1448-maximum-69-number](https://github.com/sailakshmi-0987/DSA/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/sailakshmi-0987/DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sailakshmi-0987/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sailakshmi-0987/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sailakshmi-0987/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sailakshmi-0987/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -932,6 +934,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sailakshmi-0987/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
