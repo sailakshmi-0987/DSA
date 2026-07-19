@@ -320,6 +320,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0134-gas-station](https://github.com/sailakshmi-0987/DSA/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sailakshmi-0987/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/sailakshmi-0987/DSA/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/sailakshmi-0987/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sailakshmi-0987/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -514,6 +515,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0516-longest-palindromic-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/sailakshmi-0987/DSA/tree/master/0686-repeated-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sailakshmi-0987/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sailakshmi-0987/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sailakshmi-0987/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -614,6 +616,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sailakshmi-0987/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/sailakshmi-0987/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/sailakshmi-0987/DSA/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sailakshmi-0987/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sailakshmi-0987/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -819,6 +822,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sailakshmi-0987/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sailakshmi-0987/DSA/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sailakshmi-0987/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sailakshmi-0987/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sailakshmi-0987/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
