@@ -221,6 +221,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1046-max-consecutive-ones-iii](https://github.com/sailakshmi-0987/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sailakshmi-0987/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1130-last-stone-weight-ii) |
+| [1260-shift-2d-grid](https://github.com/sailakshmi-0987/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sailakshmi-0987/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sailakshmi-0987/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -584,6 +585,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0741-cherry-pickup](https://github.com/sailakshmi-0987/DSA/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/sailakshmi-0987/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sailakshmi-0987/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -834,6 +836,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/sailakshmi-0987/DSA/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/sailakshmi-0987/DSA/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/sailakshmi-0987/DSA/tree/master/1642-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sailakshmi-0987/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
