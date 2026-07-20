@@ -246,6 +246,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sailakshmi-0987/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sailakshmi-0987/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sailakshmi-0987/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sailakshmi-0987/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sailakshmi-0987/DSA/tree/master/2169-simple-bank-system) |
@@ -841,6 +842,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1642-water-bottles](https://github.com/sailakshmi-0987/DSA/tree/master/1642-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sailakshmi-0987/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/sailakshmi-0987/DSA/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sailakshmi-0987/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sailakshmi-0987/DSA/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sailakshmi-0987/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -935,6 +937,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sailakshmi-0987/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sailakshmi-0987/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sailakshmi-0987/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sailakshmi-0987/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/sailakshmi-0987/DSA/tree/master/3827-implement-router) |
