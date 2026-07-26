@@ -216,6 +216,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/sailakshmi-0987/DSA/tree/master/0830-largest-triangle-area) |
+| [0860-lemonade-change](https://github.com/sailakshmi-0987/DSA/tree/master/0860-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -325,6 +326,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0055-jump-game](https://github.com/sailakshmi-0987/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sailakshmi-0987/DSA/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/sailakshmi-0987/DSA/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sailakshmi-0987/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/sailakshmi-0987/DSA/tree/master/1448-maximum-69-number) |
