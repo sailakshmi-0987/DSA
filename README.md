@@ -211,6 +211,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0498-diagonal-traverse](https://github.com/sailakshmi-0987/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/sailakshmi-0987/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/sailakshmi-0987/DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/sailakshmi-0987/DSA/tree/master/0636-exclusive-time-of-functions) |
@@ -332,6 +333,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0409-longest-palindrome](https://github.com/sailakshmi-0987/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sailakshmi-0987/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/sailakshmi-0987/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/sailakshmi-0987/DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/sailakshmi-0987/DSA/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
