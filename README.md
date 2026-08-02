@@ -225,6 +225,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/sailakshmi-0987/DSA/tree/master/0830-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/sailakshmi-0987/DSA/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/sailakshmi-0987/DSA/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -452,6 +453,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0741-cherry-pickup](https://github.com/sailakshmi-0987/DSA/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sailakshmi-0987/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/sailakshmi-0987/DSA/tree/master/0877-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sailakshmi-0987/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1130-last-stone-weight-ii) |
@@ -491,6 +493,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/sailakshmi-0987/DSA/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/sailakshmi-0987/DSA/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/sailakshmi-0987/DSA/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -989,6 +992,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sailakshmi-0987/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sailakshmi-0987/DSA/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
