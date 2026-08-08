@@ -355,6 +355,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sailakshmi-0987/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -516,6 +517,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sailakshmi-0987/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -566,6 +568,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2887-sort-vowels-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3396-valid-word](https://github.com/sailakshmi-0987/DSA/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sailakshmi-0987/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -589,6 +592,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0679-24-game](https://github.com/sailakshmi-0987/DSA/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sailakshmi-0987/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1003,6 +1007,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sailakshmi-0987/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sailakshmi-0987/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sailakshmi-0987/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sailakshmi-0987/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sailakshmi-0987/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union Find
