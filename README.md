@@ -235,6 +235,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1046-max-consecutive-ones-iii](https://github.com/sailakshmi-0987/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sailakshmi-0987/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sailakshmi-0987/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sailakshmi-0987/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sailakshmi-0987/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -462,6 +463,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0967-minimum-falling-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sailakshmi-0987/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1140-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/sailakshmi-0987/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -502,6 +504,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0877-stone-game](https://github.com/sailakshmi-0987/DSA/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1140-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sailakshmi-0987/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sailakshmi-0987/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -840,6 +843,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sailakshmi-0987/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1140-stone-game-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sailakshmi-0987/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/sailakshmi-0987/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sailakshmi-0987/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1003,6 +1007,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sailakshmi-0987/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sailakshmi-0987/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sailakshmi-0987/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -1044,4 +1049,12 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [3310-remove-methods-from-project](https://github.com/sailakshmi-0987/DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sailakshmi-0987/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sailakshmi-0987/DSA/tree/master/3620-network-recovery-pathways) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
