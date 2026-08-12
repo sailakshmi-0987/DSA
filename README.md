@@ -35,6 +35,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sailakshmi-0987/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sailakshmi-0987/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sailakshmi-0987/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -286,6 +287,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sailakshmi-0987/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sailakshmi-0987/DSA/tree/master/2689-rearranging-fruits) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sailakshmi-0987/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sailakshmi-0987/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sailakshmi-0987/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sailakshmi-0987/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sailakshmi-0987/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -381,6 +383,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sailakshmi-0987/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sailakshmi-0987/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sailakshmi-0987/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sailakshmi-0987/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sailakshmi-0987/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sailakshmi-0987/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
