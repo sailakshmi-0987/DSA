@@ -218,6 +218,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0486-predict-the-winner](https://github.com/sailakshmi-0987/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/sailakshmi-0987/DSA/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/sailakshmi-0987/DSA/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/sailakshmi-0987/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/sailakshmi-0987/DSA/tree/master/0605-can-place-flowers) |
@@ -422,6 +423,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/sailakshmi-0987/DSA/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sailakshmi-0987/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
@@ -805,6 +807,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/sailakshmi-0987/DSA/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/sailakshmi-0987/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/sailakshmi-0987/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
