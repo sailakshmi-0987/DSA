@@ -253,6 +253,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sailakshmi-0987/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sailakshmi-0987/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/sailakshmi-0987/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sailakshmi-0987/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sailakshmi-0987/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sailakshmi-0987/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -446,6 +447,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0973-k-closest-points-to-origin](https://github.com/sailakshmi-0987/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sailakshmi-0987/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/sailakshmi-0987/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1612-avoid-flood-in-the-city](https://github.com/sailakshmi-0987/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/sailakshmi-0987/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sailakshmi-0987/DSA/tree/master/2023-design-movie-rental-system) |
