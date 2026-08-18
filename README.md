@@ -211,6 +211,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/sailakshmi-0987/DSA/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sailakshmi-0987/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -433,6 +434,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sailakshmi-0987/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/sailakshmi-0987/DSA/tree/master/0506-relative-ranks) |
