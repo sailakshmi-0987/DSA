@@ -174,6 +174,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0455-assign-cookies](https://github.com/sailakshmi-0987/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sailakshmi-0987/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sailakshmi-0987/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sailakshmi-0987/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -226,6 +227,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/sailakshmi-0987/DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/sailakshmi-0987/DSA/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/sailakshmi-0987/DSA/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/sailakshmi-0987/DSA/tree/master/0741-cherry-pickup) |
@@ -387,6 +389,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sailakshmi-0987/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/sailakshmi-0987/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sailakshmi-0987/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sailakshmi-0987/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -431,6 +434,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/sailakshmi-0987/DSA/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sailakshmi-0987/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/sailakshmi-0987/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
@@ -791,6 +795,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sailakshmi-0987/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -824,6 +829,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0561-array-partition](https://github.com/sailakshmi-0987/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [0973-k-closest-points-to-origin](https://github.com/sailakshmi-0987/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/1018-largest-perimeter-triangle) |
