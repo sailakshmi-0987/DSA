@@ -211,6 +211,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
 | [0307-range-sum-query-mutable](https://github.com/sailakshmi-0987/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/sailakshmi-0987/DSA/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sailakshmi-0987/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -432,6 +433,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/sailakshmi-0987/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
@@ -659,6 +661,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0037-sudoku-solver](https://github.com/sailakshmi-0987/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sailakshmi-0987/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/sailakshmi-0987/DSA/tree/master/0498-diagonal-traverse) |
@@ -793,6 +796,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sailakshmi-0987/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
@@ -824,6 +828,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/sailakshmi-0987/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sailakshmi-0987/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/sailakshmi-0987/DSA/tree/master/0561-array-partition) |
