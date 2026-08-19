@@ -591,6 +591,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0459-repeated-substring-pattern](https://github.com/sailakshmi-0987/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/sailakshmi-0987/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/sailakshmi-0987/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/sailakshmi-0987/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/sailakshmi-0987/DSA/tree/master/0686-repeated-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sailakshmi-0987/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
