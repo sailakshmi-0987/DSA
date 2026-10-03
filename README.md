@@ -472,6 +472,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sailakshmi-0987/DSA/tree/master/0055-jump-game) |
@@ -578,6 +579,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailakshmi-0987/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0165-compare-version-numbers) |
@@ -699,6 +701,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sailakshmi-0987/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0094-binary-tree-inorder-traversal) |
@@ -1132,4 +1135,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sailakshmi-0987/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
