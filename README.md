@@ -206,6 +206,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0118-pascals-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/sailakshmi-0987/DSA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/sailakshmi-0987/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sailakshmi-0987/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
@@ -653,6 +654,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sailakshmi-0987/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/sailakshmi-0987/DSA/tree/master/0342-power-of-four) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sailakshmi-0987/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
