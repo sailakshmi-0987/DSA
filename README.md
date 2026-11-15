@@ -533,6 +533,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0062-unique-paths](https://github.com/sailakshmi-0987/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sailakshmi-0987/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sailakshmi-0987/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sailakshmi-0987/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sailakshmi-0987/DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -805,6 +806,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sailakshmi-0987/DSA/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -1153,4 +1155,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sailakshmi-0987/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
