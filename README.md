@@ -14,6 +14,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0138-copy-list-with-random-pointer](https://github.com/sailakshmi-0987/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sailakshmi-0987/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sailakshmi-0987/DSA/tree/master/0409-longest-palindrome) |
@@ -207,6 +208,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0134-gas-station](https://github.com/sailakshmi-0987/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/sailakshmi-0987/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sailakshmi-0987/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sailakshmi-0987/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sailakshmi-0987/DSA/tree/master/0213-house-robber-ii) |
@@ -795,6 +797,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/sailakshmi-0987/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sailakshmi-0987/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -837,6 +840,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sailakshmi-0987/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -990,6 +994,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/sailakshmi-0987/DSA/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sailakshmi-0987/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sailakshmi-0987/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1142,4 +1147,8 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sailakshmi-0987/DSA/tree/master/0032-longest-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sailakshmi-0987/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
