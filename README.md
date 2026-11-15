@@ -235,6 +235,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0636-exclusive-time-of-functions](https://github.com/sailakshmi-0987/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/sailakshmi-0987/DSA/tree/master/0679-24-game) |
+| [0704-binary-search](https://github.com/sailakshmi-0987/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sailakshmi-0987/DSA/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/sailakshmi-0987/DSA/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/sailakshmi-0987/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -814,6 +815,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0611-valid-triangle-number](https://github.com/sailakshmi-0987/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sailakshmi-0987/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sailakshmi-0987/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/sailakshmi-0987/DSA/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sailakshmi-0987/DSA/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sailakshmi-0987/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/sailakshmi-0987/DSA/tree/master/1046-max-consecutive-ones-iii) |
