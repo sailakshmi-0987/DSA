@@ -170,6 +170,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0042-trapping-rain-water](https://github.com/sailakshmi-0987/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sailakshmi-0987/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sailakshmi-0987/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/sailakshmi-0987/DSA/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/sailakshmi-0987/DSA/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/sailakshmi-0987/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sailakshmi-0987/DSA/tree/master/0567-permutation-in-string) |
@@ -198,6 +199,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | [0064-minimum-path-sum](https://github.com/sailakshmi-0987/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/sailakshmi-0987/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sailakshmi-0987/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/sailakshmi-0987/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sailakshmi-0987/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sailakshmi-0987/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sailakshmi-0987/DSA/tree/master/0118-pascals-triangle) |
@@ -834,6 +836,7 @@ This repository contains my solutions to various problems on Leetcode.I'm using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sailakshmi-0987/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sailakshmi-0987/DSA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/sailakshmi-0987/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sailakshmi-0987/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sailakshmi-0987/DSA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sailakshmi-0987/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
